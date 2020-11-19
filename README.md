@@ -19,6 +19,7 @@ A bunch of recipes in markdown
 ### Savories
 
 - [Sourdough Biscuits](md/sourdough_biscuits.md)
+- [Potato Lefse](md/potato_lefse.md)
 
 ### Sauces
 
