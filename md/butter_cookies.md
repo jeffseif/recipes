@@ -5,9 +5,9 @@ Also known as "Norwegian cookies".  From Grandma Corbin, November 2020.
 ## Ingredients
 
 - 2 1/2 cups flour (or enough until sufficiently firm to form with fingers)
-- 1 cup softened butter
+- 1 cup softened salted butter
 - 3/4 cup powdered sugar
-- 1 cup finely chopped nuts
+- 1 cup finely chopped toasted nuts
 - 1 teaspoon vanilla extract
 
 ## Directions
