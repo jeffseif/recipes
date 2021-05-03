@@ -20,6 +20,8 @@ A bunch of recipes in markdown
 
 - [Sourdough Biscuits](md/sourdough_biscuits.md)
 - [Potato Lefse](md/potato_lefse.md)
+- [Hard Boiled Eggs](md/hard_boiled_eggs.md)
+- [Trader Joe's White Lightning Chili](md/white_lightning_chili.md)
 
 ### Sauces
 
