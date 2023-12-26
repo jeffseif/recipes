@@ -12,6 +12,7 @@ A bunch of recipes in markdown
 - [Chocolate Chia Seed Pudding](md/chocolate-chia-seed-pudding.md)
 - [Vegan Chocolate Chip Cookies](md/vegan-chocolate-chip-cookies.md)
 - [Vegan No Bake Chocolate Cookies](md/vegan-no-bake-chocolate-cookies.md)
+- [Olive Oil Brownies](md/olive-oil-brownies.md)
 - Norwegian xmas cookies
   - [Butter cookies](md/butter-cookies.md)
   - [Sandbakkels](md/sandbakkels.md)
