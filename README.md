@@ -14,10 +14,13 @@ A bunch of recipes in markdown
 - [Vegan No Bake Chocolate Cookies](md/vegan-no-bake-chocolate-cookies.md)
 - [Olive Oil Brownies](md/olive-oil-brownies.md)
 - Norwegian xmas cookies
-  - [Butter cookies](md/butter-cookies.md)
+  - [Butter cookies](md/norwegian-butter-cookies.md)
   - [Sandbakkels](md/sandbakkels.md)
   - [Nut Balls](md/nut-balls.md)
   - [Cream Wafers](md/cream-wafers.md)
+- Syrian cookies
+  - [Butter cookies](md/syrian-butter-cookies.md)
+  - [Date cookies](md/syrian-date-cookies.md)
 
 ### Savories
 

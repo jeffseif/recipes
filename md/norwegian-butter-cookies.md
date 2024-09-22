@@ -1,4 +1,4 @@
-# Butter Cookies
+# Norwegian Butter Cookies
 
 Also known as "Norwegian cookies".  From Grandma Corbin, November 2020.
 
