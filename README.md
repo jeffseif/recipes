@@ -13,6 +13,7 @@ A bunch of recipes in markdown
 - [Vegan Chocolate Chip Cookies](md/vegan-chocolate-chip-cookies.md)
 - [Vegan No Bake Chocolate Cookies](md/vegan-no-bake-chocolate-cookies.md)
 - [Olive Oil Brownies](md/olive-oil-brownies.md)
+- [Sourdough Brownies](md/sourdough-brownies.md)
 - Norwegian xmas cookies
   - [Butter cookies](md/norwegian-butter-cookies.md)
   - [Sandbakkels](md/sandbakkels.md)
