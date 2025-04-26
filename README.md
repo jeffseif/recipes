@@ -30,6 +30,7 @@ A bunch of recipes in markdown
 - [Overnight Oatmeal](md/overnight-oatmeal.md)
 - [Potato Lefse](md/potato-lefse.md)
 - [Trader Joe's White Lightning Chili](md/white-lightning-chili.md)
+- [Hummos](md/hummos.md)
 
 ### Sauces
 
