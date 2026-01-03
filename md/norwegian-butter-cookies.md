@@ -6,7 +6,7 @@ Also known as "Norwegian cookies".  From Grandma Corbin, November 2020.
 
 - 300 grams flour (or enough until sufficiently firm to form with fingers)
 - 1 cup softened salted butter
-- 90 grams cup powdered sugar
+- 90 grams powdered sugar
 - 120 grams finely chopped toasted nuts
 - 1 teaspoon vanilla extract
 
