@@ -19,6 +19,7 @@ A bunch of recipes in markdown
   - [Sandbakkels](md/sandbakkels.md)
   - [Nut Balls](md/nut-balls.md)
   - [Cream Wafers](md/cream-wafers.md)
+  - [Bourbon Balls](md/bourbon-balls.md)
 - Syrian cookies
   - [Butter cookies](md/syrian-butter-cookies.md)
   - [Date cookies](md/syrian-date-cookies.md)
